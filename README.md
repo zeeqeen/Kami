@@ -1,0 +1,2 @@
+# Kami
+Scripts for Kami
